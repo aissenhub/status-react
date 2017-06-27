@@ -28,7 +28,7 @@
 
    ;chat
    :is-typing                             "raksta"
-   :and-you                               "un tu
+   :and-you                               "un tu"
    :search-chat                           "Meklēt čatu"
    :members                               {:one   "1 dalībnieks"
                                            :other "{{count}} dalībnieki"
